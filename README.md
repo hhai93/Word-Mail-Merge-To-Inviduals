@@ -68,9 +68,3 @@ This VBA script automates the creation of individual files from a Word document 
 ### Output (with `fileFormat = wdFormatPDF`)
 - `C:\YourFolderPath\John.pdf`
 - `C:\YourFolderPath\Alice.pdf`
-
----
-
----
-
-Happy automating! 🚀

@@ -1,4 +1,4 @@
-# 📜 Word-Mail-Merge-to-Individuals
+# 📜 Word Mail Merge To Individuals
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/hhai93/Word-Mail-Merge-to-Individuals)
 

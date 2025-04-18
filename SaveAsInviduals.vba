@@ -1,4 +1,4 @@
-Sub SaveAsSeparateFiles()
+Sub SaveAsInviduals()
     Dim i As Long
     Dim doc As Document
     Dim newDoc As Document

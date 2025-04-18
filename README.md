@@ -28,7 +28,7 @@ This VBA script automates the creation of individual files from a Word document 
 ### 2. Add the VBA Script
 - Open your Word document.
 - Press `Alt + F11` to launch the VBA editor.
-- Go to **Insert** > **Module** and paste the code from [`SaveAsSeparateFiles.vba`](SaveAsSeparateFiles.vba).
+- Go to **Insert** > **Module** and paste the code from [`SaveAsInviduals.vba`](SaveAsInviduals.vba).
 - ✏️ Customize the script:
   - Replace `"Name"` with the column name for naming files (e.g., `"ID"`, `"CustomerName"`).
   - Update `"C:\YourFolderPath\"` to your desired output folder (e.g., `"C:\Users\YourName\Documents\Output\"`). Ensure the folder exists.
